@@ -1,0 +1,13 @@
+#start{
+ background-color: aqua;   
+ font-size: large;
+ border-radius: 10px;
+ width: 80px;
+}
+#stop{
+    background-color: red;
+    font-size: large;
+    margin-left: 20px;
+    border-radius: 10px;
+    width: 80px;
+}
